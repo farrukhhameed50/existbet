@@ -1,0 +1,27 @@
+{
+  "name": "existbet",
+  "version": "1.0.0",
+  "description": "Existbet",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "spark",
+    "flights",
+    "node",
+    "express",
+    "structure"
+  ],
+  "author": "Origamisolution",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.28.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "moment": "^2.22.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {}
+}

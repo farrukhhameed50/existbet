@@ -1,0 +1,14 @@
+{
+    "port": "3030",
+	"host":"http://localhost:3030/",
+	"session_time":999999999999,
+	"db":{
+		"server":"mysql",
+		"mysql":{
+			"host":"localhost",
+			"user":"existbet_user",
+			"pass":"XbI2fTARe1obJPxI",
+			"dbname":"existbet"
+		}
+	}
+}
